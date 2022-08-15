@@ -1,0 +1,20 @@
+[
+  {
+    "paymethod": "支付寶"
+  },
+  {
+    "paymethod": "信用卡"
+  },
+  {
+    "paymethod": "銀聯"
+  },
+  {
+    "paymethod": "AlipayHK"
+  },
+  {
+    "paymethod":"其他手機支付平台"
+  },
+  {
+    "paymethod":"貨到現金付款"
+  }
+  ]

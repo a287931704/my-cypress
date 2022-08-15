@@ -1,0 +1,14 @@
+[
+  {
+    "paymethod": "支付宝"
+  },
+  {
+    "paymethod": "微信"
+  },
+  {
+    "paymethod": "银联"
+  },
+  {
+    "paymethod": "花呗分期"
+  }
+  ]

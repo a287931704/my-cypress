@@ -1,0 +1,17 @@
+{
+  "url":"https://www.nike.com.hk/",
+  "url_login":"/member/login.htm?key=Nikestore@123",
+  "url_sku_pdp":"/product/fair/SaDFasd.htm",
+  "url_qs_pdp":"/product/fair/YsSHjaaA.htm",
+  "url_favorites":"/mynike/favorites.htm",
+  "user": {
+    "name": "453802308@qq.com",
+    "password": "Aa123456"
+  },
+  "address":{
+    "add_name":"自动化测试",
+    "add_mobile":"18621719770",
+    "add_email":"453802308@qq.com",
+    "add_delivery":"TEST"
+  }
+}
